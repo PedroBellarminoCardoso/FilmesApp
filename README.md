@@ -76,27 +76,6 @@ npx expo start
 
 5. Escaneie o QR Code com o Expo Go ou execute o projeto em um emulador.
 
-## Estrutura do projeto
-
-A organização dos arquivos pode variar conforme a implementação. Uma estrutura sugerida é:
-
-```text
-app-lista-filmes/
-├── assets/
-├── src/
-│   ├── components/
-│   ├── screens/
-│   │   ├── HomeScreen.js
-│   │   └── DetailsScreen.js
-│   ├── navigation/
-│   │   └── AppNavigator.js
-│   └── services/
-│       └── omdbApi.js
-├── App.js
-├── package.json
-└── README.md
-```
-
 ## Objetivo acadêmico
 
 Este projeto foi desenvolvido como exercício prático da Aula 5, com foco na aplicação dos conceitos de desenvolvimento mobile utilizando React Native e Expo, integração com APIs REST e navegação entre telas.
