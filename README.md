@@ -100,7 +100,3 @@ app-lista-filmes/
 ## Objetivo acadêmico
 
 Este projeto foi desenvolvido como exercício prático da Aula 5, com foco na aplicação dos conceitos de desenvolvimento mobile utilizando React Native e Expo, integração com APIs REST e navegação entre telas.
-
-## Autor
-
-Desenvolvido como atividade acadêmica.
